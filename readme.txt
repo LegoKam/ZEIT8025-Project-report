@@ -49,3 +49,9 @@ PE_Section
 https://pocstorage1705.blob.core.windows.net/storage/input/PE_Section.csv?sp=r&st=2026-06-09T12:47:33Z&se=2027-06-09T21:02:33Z&spr=https&sv=2026-02-06&sr=b&sig=r3UsPhkhM6MLyP6GJnl5TOKi2BDy%2FeavKkd4QLYcibQ%3D
 
 
+DLLs_Imported
+https://pocstorage1705.blob.core.windows.net/storage/input/DLLs_Imported.csv?sp=r&st=2026-06-09T12:49:59Z&se=2027-06-09T21:04:59Z&spr=https&sv=2026-02-06&sr=b&sig=r%2B%2Fzgj7C62%2FWC9aXfT2bJuKphUORUt7cim85Bq0%2BHsQ%3D
+
+
+API_Functions
+https://pocstorage1705.blob.core.windows.net/storage/input/API_Functions.csv?sp=r&st=2026-06-09T12:50:32Z&se=2027-06-09T21:05:32Z&spr=https&sv=2026-02-06&sr=b&sig=2EZHjbs99uuT996FPN4xAdWN32oShGzmPymQrkTjIo4%3D
