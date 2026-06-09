@@ -13,3 +13,29 @@ https://prod-dcd-datasets-public-files-eu-west-1.s3.eu-west-1.amazonaws.com/8318
 
 PE Sections
 https://prod-dcd-datasets-public-files-eu-west-1.s3.eu-west-1.amazonaws.com/57c7ec3a-63ea-4904-85bc-29c4bf9f9010
+
+
+--
+
+
+
+
+https://figshare.com/articles/dataset/Windows_Malware_Detection_Dataset/21608262
+
+
+PE Header
+https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/38302680/PE_Header.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20260609/eu-west-1/s3/aws4_request&X-Amz-Date=20260609T120727Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=62739b0854437db52e874b72991fdab142b59b798754eebaeab6430c30d602a5
+
+
+PE Section
+https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/38300091/PE_Section.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20260609/eu-west-1/s3/aws4_request&X-Amz-Date=20260609T120442Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=ece61ff2b0ca6cfdac98a6392081b377067edce07531aac18b0b584fe5c2ef8b
+
+
+DLL Imported
+https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/38302686/DLLs_Imported.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20260609/eu-west-1/s3/aws4_request&X-Amz-Date=20260609T120440Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=f2d45e3d5084139bff0095c108b7b5fc122dcec411bb90c8541d390429cff8e6
+
+
+API Functions
+https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/38303655/API_Functions.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20260609/eu-west-1/s3/aws4_request&X-Amz-Date=20260609T120433Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=ff8e7c6b6f93483ff6dc7e6987208ce0985c859fe59f667d7f9c847d5866e8fb
+
+
