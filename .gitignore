@@ -3,3 +3,18 @@
 data/
 dataset/
 A Multi-feature Dataset for Windows PE Malware Classification/
+
+
+input/
+output/
+payload/
+*.docx
+*.pdf
+*.doc
+*.txt
+*.csv
+*.json
+*.xml
+*.yml
+*.yaml
+*.html
